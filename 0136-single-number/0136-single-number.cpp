@@ -5,7 +5,7 @@ public:
         for (auto &it: nums){
             mp[it]++;
         }
-        for(auto &i:mp){
+        for(const auto &i:mp){
             if(i.second==1){
                 return i.first;
             }
