@@ -16,15 +16,16 @@ public:
                 count2++;
             }
         }
-        nums.clear();
-        for(int i=0;i<count0;i++){
-            nums.push_back(0);
+        // nums.clear();
+        int i=0;
+        for(;i<count0;i++){
+            nums[i]=0;;
         }
-        for(int i=0;i<count1;i++){
-            nums.push_back(1);
+        for(;i<count1+count0;i++){
+            nums[i]=1;
         }
-        for(int i=0;i<count2;i++){
-            nums.push_back(2);
+        for(;i<nums.size();i++){
+            nums[i]=2;
         }
         
     }
