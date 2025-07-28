@@ -1,0 +1,1 @@
+{"name":"Local: 1003-D","url":"c:\\Users\\aashw\\OneDrive\\Desktop\\C++\\CP\\1003-D.cpp","tests":[{"id":1753683908512,"input":"5 4\n2 4 8 2 4\n8\n5\n14\n10\n","output":"1\n-1\n3\n2\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\aashw\\OneDrive\\Desktop\\C++\\CP\\1003-D.cpp","group":"local","local":true}

@@ -1,0 +1,53 @@
+#include<iostream>
+using namespace std;
+int main(){
+    int num,i,j,k;
+    cin>>num;
+    for(i=1;i<=num;i++){
+        for(j=1;j<=num-i;j++){
+            cout<<" ";
+        }
+        for(k=1;k<=i;k++){
+            cout<<"*";
+        }
+        for(k=2;k<=i;k++){
+            cout<<"*";
+        }
+        cout<<endl;
+    }
+        for(i=1;i<=num;i++){
+        for(j=1;j<=num-i;j++){
+            cout<<" ";
+        }
+        for(k=1;k<=i;k++){
+            cout<<"*";
+        }
+        for(k=2;k<=i;k++){
+            cout<<"*";
+        }
+        cout<<endl;
+    }
+        for(i=1;i<=num;i++){
+        for(j=1;j<=num-i;j++){
+            cout<<" ";
+        }
+        for(k=1;k<=i;k++){
+            cout<<"*";
+        }
+        for(k=2;k<=i;k++){
+            cout<<"*";
+        }
+        cout<<endl;
+    }
+    
+        for(i=1;i<=num;i++){
+        for(j=1;j<num;j++){
+            cout<<" ";
+        }
+        for(k=1;k<=1;k++){
+            cout<<"*";
+        }
+        cout<<endl;
+    }
+    return 0;
+}
