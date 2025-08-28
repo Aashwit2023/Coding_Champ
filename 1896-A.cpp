@@ -10,5 +10,6 @@ int main(){
         for(int i=0;i<n;i++)cin>>vec[i];
         if(vec[0] == 1) cout<<"Yes"<<endl;
         else cout<<"No"<<endl;
+        cout<<endl;
     }
 }
