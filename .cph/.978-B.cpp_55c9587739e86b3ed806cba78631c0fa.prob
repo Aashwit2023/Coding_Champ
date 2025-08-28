@@ -1,0 +1,1 @@
+{"name":"Local: 978-B","url":"c:\\Users\\aashw\\OneDrive\\Desktop\\C++\\CP\\978-B.cpp","tests":[{"id":1752727428535,"input":"6\nxxxiii","output":"1"},{"id":1752727441629,"input":"10\nxxxxxxxxxx","output":"8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\aashw\\OneDrive\\Desktop\\C++\\CP\\978-B.cpp","group":"local","local":true}
