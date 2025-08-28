@@ -1,1 +1,0 @@
-{"name":"Local: 1352-A","url":"c:\\Users\\aashw\\OneDrive\\Desktop\\C++\\CP\\1352-A.cpp","tests":[{"id":1755283826193,"input":"5\n5009\n7\n9876\n10000\n10","output":"2\n5000 9\n1\n7 \n4\n800 70 6 9000 \n1\n10000 \n1\n10 "}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\aashw\\OneDrive\\Desktop\\C++\\CP\\1352-A.cpp","group":"local","local":true}

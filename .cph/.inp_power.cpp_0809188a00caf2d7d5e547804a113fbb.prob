@@ -1,1 +1,0 @@
-{"name":"Local: inp_power","url":"c:\\Users\\aashw\\Desktop\\C++\\inp_power.cpp","tests":[{"id":1714486309233,"input":"2\n0","output":"1"},{"id":1714486362062,"input":"3\n4","output":"81"},{"id":1714486407400,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\aashw\\Desktop\\C++\\inp_power.cpp","group":"local","local":true}
