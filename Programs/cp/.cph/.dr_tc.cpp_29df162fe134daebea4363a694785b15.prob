@@ -1,1 +1,0 @@
-{"name":"Local: dr_tc","url":"c:\\Users\\aashw\\OneDrive\\Desktop\\C++\\Programs\\cp\\dr_tc.cpp","tests":[{"id":1745507440382,"input":"5\n3\n101\n1\n1\n5\n00000\n2\n11\n3\n010\n","output":"5\n0\n5\n2\n4\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\aashw\\OneDrive\\Desktop\\C++\\Programs\\cp\\dr_tc.cpp","group":"local","local":true}
