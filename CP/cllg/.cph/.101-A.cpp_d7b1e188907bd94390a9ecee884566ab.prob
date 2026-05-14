@@ -1,0 +1,1 @@
+{"name":"Local: 101-A","url":"c:\\Users\\aashw\\OneDrive\\Desktop\\C++\\CP\\cllg\\101-A.cpp","tests":[{"id":1771252528324,"input":"8\n2\n5 3\n5 3\n2\n10 3\n3 10\n","output":"0\n7\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\aashw\\OneDrive\\Desktop\\C++\\CP\\cllg\\101-A.cpp","group":"local","local":true}

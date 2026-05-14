@@ -1,0 +1,1 @@
+{"name":"Local: max_subarry_xor","url":"c:\\Users\\aashw\\OneDrive\\Desktop\\C++\\CP\\CSES\\max_subarry_xor.cpp","tests":[{"id":1772568704887,"input":"4\n5 1 5 9","output":"13"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\aashw\\OneDrive\\Desktop\\C++\\CP\\CSES\\max_subarry_xor.cpp","group":"local","local":true}
