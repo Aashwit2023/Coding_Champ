@@ -1,0 +1,86 @@
+{
+  "C++ Simple Boilerplate": {
+    "scope": "cpp",
+    "prefix": "cppsimple",
+    "body": [
+      "#include <bits/stdc++.h>",
+      "using namespace std;",
+      "",
+      "int main() {",
+      "    ",
+      "    $0",
+      "    ",
+      "    return 0;",
+      "}"
+    ],
+    "description": "Simple C++ boilerplate"
+  },
+
+  "C++ Prime / Sieve Boilerplate": {
+    "scope": "cpp",
+    "prefix": "cppprime",
+    "body": [
+      "#include <bits/stdc++.h>",
+      "using namespace std;",
+      "",
+      "const int N = 1e6 + 5;",
+      "vector<bool> isPrime(N, true);",
+      "",
+      "void sieve() {",
+      "    isPrime[0] = isPrime[1] = false;",
+      "    for (int i = 2; i * i < N; i++) {",
+      "        if (isPrime[i]) {",
+      "            for (int j = i * i; j < N; j += i) {",
+      "                isPrime[j] = false;",
+      "            }",
+      "        }",
+      "    }",
+      "}",
+      "",
+      "int main() {",
+      "    sieve();",
+      "    $0",
+      "    return 0;",
+      "}"
+    ],
+    "description": "Sieve of Eratosthenes prime template"
+  },
+
+  "Vector Loop (0 to n)": {
+    "scope": "cpp",
+    "prefix": "vecfor",
+    "body": [
+      "for (int i = 0; i < n; i++) {",
+      "    cout << v[i] << \" \";",
+      "}",
+      "cout << endl;"
+    ],
+    "description": "Loop through vector from 0 to n"
+  },
+
+  "One Variable + Vector Template": {
+    "scope": "cpp",
+    "prefix": "cppvec",
+    "body": [
+      "#include <bits/stdc++.h>",
+      "using namespace std;",
+      "",
+      "int main() {",
+      "    int n;",
+      "    cin >> n;",
+      "",
+      "    int x;",
+      "    vector<int> v(n);",
+      "",
+      "    for (int i = 0; i < n; i++) {",
+      "        cin >> v[i];",
+      "    }",
+      "",
+      "    $0",
+      "",
+      "    return 0;",
+      "}"
+    ],
+    "description": "Template with one variable and vector of size n"
+  }
+}
